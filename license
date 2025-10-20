@@ -1,0 +1,690 @@
+Licenses
+
+
+# Prospect Futures Terms of Service
+
+**EFFECTIVE DATE: October 20, 2025**
+
+**CRITICAL ARBITRATION NOTICE**: Section 9 contains binding arbitration provisions and class action waiver. Review carefully before using our services.
+
+---
+
+## Agreement Structure
+
+**Parties**: Prospect Futures, Inc. (a Texas For-Profit Corporation, File Number *PENDING*) and You (the User)
+
+**Principal Address**: 
+Prospect Futures, Inc.
+153 Morningdale Drive Liberty Hill TX 78642
+United States
+
+**Services Covered**:
+- Research platform access and computational resources
+- Decentralized finance protocol interaction
+- Energy systems data analytics and optimization
+- Machine learning model deployment and training infrastructure
+- Oil & Gas derivative instruments and energy futures trading (pending regulatory approval)
+
+---
+
+## 1. ELIGIBILITY & COMPLIANCE
+
+**1.1 User Requirements**
+- Must be 18+ years of age
+- Must be a U.S. resident (physical presence in the United States)
+- Not located in, under control of, or a national/resident of any OFAC-sanctioned jurisdiction
+- Compliance with Texas energy trading regulations, FERC requirements, and applicable federal law
+- For energy trading features (launching Q2 2026): Series 3, Series 30, or equivalent energy trader credentials required
+- For institutional accounts: compliance with FinCEN beneficial ownership requirements
+
+**1.2 Identity Verification**
+- Initial KYC/AML verification required before platform access
+- Government-issued photo ID required
+- Proof of address (utility bill, bank statement, etc.)
+- Social Security Number or Tax ID verification
+- Energy trader credential verification for derivatives access (when available)
+- Institutional clients: EIN verification and beneficial ownership disclosure
+- Information must be submitted within 14 days of account creation
+- Failure to provide complete information results in account suspension
+
+**1.3 Prohibited Jurisdictions**
+- All OFAC-sanctioned countries (Cuba, Iran, North Korea, Syria, Russia, Belarus)
+- Crimea, Donetsk, and Luhansk regions of Ukraine
+- Any jurisdiction where decentralized finance protocols are prohibited
+- Any jurisdiction where energy derivatives trading is restricted or prohibited
+- Users must not use VPNs or other tools to circumvent geographic restrictions
+
+**1.4 Ongoing Compliance**
+- Annual re-verification of identity and credentials
+- Immediate notification required for credential expiration or revocation
+- Continuous sanctions screening
+- Transaction monitoring for suspicious activity
+
+---
+
+## 2. PLATFORM SERVICES
+
+**2.1 Research Infrastructure** (Available Now)
+- GPU compute allocation: NVIDIA H100, A100, RTX 4090 clusters
+- Storage: 100GB base allocation, scalable to petabyte-scale
+- PyTorch, TensorFlow, JAX pre-installed environments
+- Jupyter notebook and VS Code server access
+- Git integration and version control
+- Collaborative workspaces for team research
+- API access for programmatic job submission
+
+**2.2 Energy Futures & Derivatives** (Launching Q2 2026, pending CFTC registration)
+- WTI crude oil futures (NYMEX-equivalent contracts)
+- Brent crude oil futures (ICE-equivalent contracts)
+- Henry Hub natural gas futures
+- Renewable energy certificates (RECs)
+- Carbon credit futures
+- Custom structured products for Nigerian Bonny Light crude
+- Custom structured products for UAE Murban crude
+- Physical delivery options (subject to licensing and infrastructure verification)
+- Cash-settled contracts available for non-licensed participants
+
+**2.3 Decentralized Finance Integration** (Beta - Available Now)
+- Ethereum mainnet smart contract interaction
+- Solana program integration
+- Non-custodial wallet connection (MetaMask, Phantom, WalletConnect)
+- ERC-20/SPL token swaps via integrated DEX aggregators
+- Liquidity provision for energy-backed stablecoins (launching Q1 2026)
+- Automated market-making infrastructure
+- Cross-chain bridging (Ethereum ↔ Solana ↔ Custom L2)
+
+**2.4 Data Analytics** (Available Now)
+- Real-time energy market data feeds (EIA, IEA, Bloomberg terminals)
+- Blockchain analytics (on-chain metrics, DeFi protocol data)
+- Historical price data (50+ years for major commodities)
+- Predictive modeling infrastructure using proprietary ML models
+- Grid optimization algorithms for renewable energy integration
+- Geopolitical risk scoring for energy markets
+- API access to all datasets (rate-limited by tier)
+
+**2.5 Custom L2 Blockchain** (Launching Q3 2026)
+- Optimistic rollup on Ethereum for settlement
+- Custom execution environment for research compute credits
+- Energy futures contract settlement layer
+- Sub-second finality for trading operations
+- 10,000+ TPS throughput
+- EVM-compatible for easy migration
+
+---
+
+## 3. FEES & PRICING
+
+**Current as of October 20, 2025. Subject to change with 30 days notice.**
+
+**3.1 Research Platform Fees**
+- **GPU Compute**: 
+  - H100: $2.00/hour
+  - A100: $1.20/hour
+  - RTX 4090: $0.50/hour
+- **Storage**: $0.10 per GB-month
+- **Data Transfer**: $0.02 per GB egress (ingress free)
+- **Dataset Access**:
+  - Tier 1 (public data): Free
+  - Tier 2 (premium aggregated data): $500/month
+  - Tier 3 (real-time institutional feeds): $2,500/month
+
+**3.2 Energy Trading Fees** (Effective Q2 2026)
+- **Futures Contracts**: 0.05% - 0.15% per contract side
+- **Physical Delivery Premium**: 0.25% of notional value
+- **OTC Structured Products**: Custom pricing, minimum $10,000 notional
+- **Margin Financing**: Prime rate + 2.5% annually
+- **Storage Fees** (for physical commodities): Market rate + 0.1%
+
+**3.3 DeFi Protocol Fees**
+- **Network Gas Fees**: Passed through with 0% markup
+- **DEX Swap Fee**: 0.15% per transaction
+- **Liquidity Pool Management**: 0.25% annual AUM fee
+- **Cross-Chain Bridge**: 0.10% + gas costs
+
+**3.4 Subscription Tiers**
+- **Free Tier**: 10 GPU-hours/month, 100GB storage, Tier 1 data
+- **Researcher ($200/month)**: 100 GPU-hours/month, 1TB storage, Tier 2 data
+- **Professional ($1,000/month)**: 500 GPU-hours/month, 10TB storage, Tier 3 data, priority support
+- **Institutional (Custom)**: Unlimited resources, dedicated infrastructure, white-glove support
+
+**3.5 Fee Changes**
+- We reserve the right to modify fees with 30 days email notice
+- Active subscriptions grandfathered for 90 days after fee change announcement
+- Energy trading fees subject to regulatory approval and market conditions
+
+---
+
+## 4. ENERGY TRADING SPECIFIC TERMS
+
+**4.1 Regulatory Compliance** (Applicable when trading features launch)
+- Users trading energy derivatives must hold appropriate CFTC registrations or exemptions
+- Registered Commodity Trading Advisors (CTAs) must provide NFA registration proof
+- Physical delivery participants must demonstrate storage/transportation capacity
+- Reporting obligations: EMIR (if applicable), Dodd-Frank Part 43/45 swap reporting
+- Large trader reporting to CFTC if position limits exceeded
+- Anti-manipulation compliance (no spoofing, wash trading, or marking the close)
+
+**4.2 Nigerian Operations** (Launching Q4 2026)
+- Contracts denominated in USD or NGN
+- Settlement via approved Nigerian banks (First Bank of Nigeria, Access Bank, Zenith Bank)
+- Compliance with Nigerian Petroleum Industry Act 2021
+- Export documentation via Nigerian National Petroleum Company (NNPC) for physical delivery
+- Currency conversion via CBN-approved channels
+- Withholding tax compliance (10% on non-resident transactions)
+
+**4.3 UAE Operations** (Launching Q4 2026)
+- Contracts for Murban crude and Das Island condensate
+- Settlement via UAE banks (Emirates NBD, ADCB, FAB)
+- Compliance with UAE Federal Law No. 4 of 2002 (Anti-Money Laundering)
+- ADNOC coordination for physical delivery
+- DMCC (Dubai Multi Commodities Centre) registration for Dubai operations
+- Free zone benefits available for qualifying entities
+
+**4.4 Risk Disclosures - Energy Markets**
+- **Price Volatility**: Oil prices have ranged from -$40 to $147/barrel historically
+- **Geopolitical Risk**: Supply disruptions (Middle East conflicts, sanctions, OPEC+ decisions)
+- **Currency Risk**: NGN and AED exchange rate fluctuations
+- **Physical Delivery Risk**: Storage unavailability, transportation failures, quality disputes
+- **Regulatory Risk**: Changes to energy policy, export controls, or trading rules
+- **Counterparty Risk**: OTC contracts subject to default risk
+- **Margin Calls**: Adverse price movements may require immediate additional capital
+- **Force Majeure**: Natural disasters, wars, or infrastructure failures may prevent contract performance
+
+**4.5 Margin Requirements** (Effective Q2 2026)
+- **Initial Margin**: 
+  - WTI/Brent futures: 8% of notional value
+  - Natural gas: 12% of notional value
+  - Nigerian/UAE custom contracts: 15-25% depending on liquidity
+- **Maintenance Margin**: 75% of initial margin
+- **Mark-to-Market**: Real-time price updates every 15 seconds during trading hours
+- **Margin Calls**: Must be met within 1 hour during trading hours, 24 hours outside trading hours
+- **Liquidation**: Automated if maintenance margin breached and not cured within grace period
+- **Liquidation Method**: Market orders executed in smallest increments to minimize slippage
+
+**4.6 Position Limits**
+- CFTC spot-month position limits apply (per federal regulations)
+- Non-spot months: 10,000 contracts per underlying commodity
+- Custom limits for Nigerian/UAE contracts based on liquidity
+- Hedge exemptions available with proper documentation
+
+---
+
+## 5. INTELLECTUAL PROPERTY
+
+**5.1 User-Generated Research**
+- **Ownership**: You retain full ownership of models, algorithms, datasets, and research outputs you create
+- **License Grant to Us**: You grant us a non-exclusive, worldwide, royalty-free license to:
+  - Improve platform infrastructure and services
+  - Generate anonymized, aggregated analytics
+  - Train meta-models for resource optimization
+  - Showcase research (with your permission) in marketing materials
+- **License Term**: Perpetual for infrastructure improvements, revocable for marketing use
+- **Attribution**: Published research using our platform must cite "Prospect Futures Research Infrastructure"
+
+**5.2 Platform Intellectual Property**
+- **Our Ownership**: All proprietary ML models, datasets (excluding user-generated), algorithms, platform code, UI/UX, trademarks, and trade secrets remain our exclusive property
+- **License to You**: Limited, non-exclusive, non-transferable, revocable license to use platform during active subscription
+- **Restrictions**: No reverse engineering, decompilation, or extraction of proprietary algorithms
+- **API Usage**: API keys are non-transferable and subject to rate limits
+
+**5.3 Open Source Components**
+- Platform uses open source software (PyTorch, Jupyter, etc.) under respective licenses
+- User code may incorporate open source libraries subject to license compliance
+- GPL-licensed code must remain open source if distributed
+
+**5.4 Collaborative Research**
+- Joint research projects require separate IP agreements
+- Default: Joint ownership with cross-licenses
+- Publications require mutual consent
+
+---
+
+## 6. DATA PRIVACY & SECURITY
+
+**6.1 Data Collection**
+- **Personal Information**: Name, address, DOB, SSN/Tax ID, government ID, email, phone
+- **Financial Information**: Bank account details, payment card information, transaction history
+- **Usage Data**: Platform activity, API calls, compute resource usage, trading history
+- **Technical Data**: IP addresses, device information, browser type, login timestamps
+- **Biometric Data**: Facial recognition for advanced identity verification (optional, with consent)
+
+**6.2 Data Storage & Security**
+- **Encryption**: AES-256 at rest, TLS 1.3 in transit
+- **Location**: AWS US-East-1 (Virginia) and US-West-2 (Oregon) regions only
+- **Backup**: Daily encrypted backups retained for 7 years (regulatory requirement)
+- **Access Controls**: Role-based access, multi-factor authentication required for employees
+- **Penetration Testing**: Quarterly third-party security audits
+- **Incident Response**: 72-hour breach notification per GDPR (if applicable) and state laws
+
+**6.3 Data Broker Registration** (Texas Business & Commerce Code Chapter 541)
+- **Registration Status**: Registered data broker with Texas Secretary of State (Registration #[Pending])
+- **Data Categories Processed**:
+  - Research activity and computational usage patterns
+  - Energy market analytical data and predictive models
+  - Decentralized network telemetry and blockchain transaction data
+  - User credentials and authentication logs
+  - ML model performance metrics
+- **Consumer Rights Page**: https://prospectfutures.com/privacy-rights
+- **Your Rights Under Texas Law**:
+  - **Access**: Request what data we have collected
+  - **Correction**: Request correction of inaccurate data
+  - **Deletion**: Request deletion (subject to regulatory retention requirements)
+  - **Opt-Out**: Opt out of data sales (Note: We do not sell personal data to third parties)
+- **Exercise Rights**: Email privacy@prospectfutures.com or submit form at privacy-rights page
+- **Response Time**: 45 days from verified request
+
+**6.4 Data Sharing**
+- **With Regulators**: CFTC, SEC, FINRA, FinCEN, IRS as required by law
+- **With Service Providers**: AWS (hosting), Plaid (bank verification), Stripe (payments), Chainalysis (blockchain analytics)
+- **With Partners**: Nigerian/UAE counterparties for energy contract settlement (minimal necessary data only)
+- **Law Enforcement**: Pursuant to valid subpoena or court order
+- **Research Collaboration**: Only with explicit user consent, anonymized where possible
+- **No Sales**: We do not sell personal information to third parties for marketing
+
+**6.5 Data Retention**
+- **Active Accounts**: Retained for duration of relationship
+- **Closed Accounts**: 7 years post-closure (CFTC/IRS requirement)
+- **Transaction Records**: 7 years per Dodd-Frank
+- **Communications**: 3 years per SEC/FINRA rules
+- **Research Data**: Per user preference (default: indefinite unless deletion requested)
+
+**6.6 International Data Transfers**
+- **U.S. Only**: Data stored exclusively in United States
+- **No EU Transfers**: Not subject to GDPR (U.S. users only)
+- **Nigerian/UAE Operations**: Local data storage partnerships planned for Q4 2026
+
+**6.7 Cookies & Tracking**
+- **Essential Cookies**: Session management, authentication (cannot be disabled)
+- **Analytics Cookies**: Google Analytics, Mixpanel (opt-out available)
+- **Marketing Cookies**: Currently not used
+- **Cookie Policy**: Available at https://prospectfutures.com/cookie-policy
+
+---
+
+## 7. PROHIBITED ACTIVITIES
+
+**You may not use the Platform to engage in or facilitate:**
+
+**7.1 Market Manipulation**
+- Spoofing (placing orders with intent to cancel)
+- Wash trading (self-trading to create false volume)
+- Marking the close (manipulating settlement prices)
+- Front-running or insider trading
+- Pump and dump schemes
+- Coordinated market manipulation
+
+**7.2 Illegal Financial Activities**
+- Money laundering or terrorist financing
+- Sanctions violations (OFAC, UN, EU)
+- Tax evasion or fraudulent reporting
+- Ponzi or pyramid schemes
+- Unauthorized money transmission
+
+**7.3 Unauthorized Access**
+- Hacking, brute force attacks, or exploiting vulnerabilities
+- Sharing API keys or account credentials
+- Scraping or data extraction beyond authorized API usage
+- DDoS attacks or resource monopolization
+- Circumventing rate limits or security measures
+
+**7.4 Export Control Violations**
+- ITAR violations (defense articles/technical data)
+- EAR violations (dual-use technology transfers)
+- Exporting ML models to sanctioned entities
+- Unauthorized transfer of cryptographic software
+
+**7.5 Fraudulent Conduct**
+- Providing false identity information
+- Creating multiple accounts to circumvent limits
+- Chargeback fraud
+- Misrepresenting trading credentials or authority
+- False claims about physical delivery capacity
+
+**7.6 Abusive Behavior**
+- Excessive API calls beyond fair use
+- Running cryptocurrency mining on research GPUs
+- Storing illegal content
+- Transmitting malware or viruses
+- Harassing other users or staff
+
+**7.7 Regulatory Violations**
+- Trading without proper licenses/registrations
+- Exceeding position limits
+- Failing to report large positions
+- Non-compliance with margin requirements
+- Operating as unregistered commodity pool or CTA
+
+**Consequences of Prohibited Activities:**
+- Immediate account suspension or termination
+- Forfeiture of fees paid
+- Position liquidation at market prices
+- Reporting to law enforcement/regulators
+- Legal action for damages
+- Lifetime ban from platform
+
+---
+
+## 8. DISCLAIMERS & RISK FACTORS
+
+**8.1 Platform Availability**
+- **No Uptime Guarantee**: Platform provided "AS IS" without warranty of availability
+- **Scheduled Maintenance**: Weekly maintenance windows (Sundays 2-4 AM CT) with 7 days notice
+- **Unscheduled Downtime**: May occur due to infrastructure failures, security incidents, or third-party dependencies
+- **No Liability**: We are not liable for trading losses, missed opportunities, or research delays due to downtime
+- **Service Credits**: Researcher/Professional tiers receive pro-rata credits for downtime exceeding 1% monthly (excluding maintenance)
+
+**8.2 Investment Risks**
+- **Not Investment Advice**: No content on platform constitutes investment, legal, tax, or financial advice
+- **No Recommendations**: We do not recommend buying, selling, or holding any asset
+- **Not a Fiduciary**: We are not your fiduciary, broker, or investment advisor
+- **DYOR**: You must conduct your own research and consult qualified professionals
+- **High Risk**: Energy derivatives and DeFi protocols carry substantial risk of total loss
+- **Volatility**: Crypto assets can lose 90%+ of value; oil prices can go negative
+- **Leverage Risk**: Margin trading can amplify losses beyond initial investment
+- **Regulatory Risk**: New regulations may prohibit or restrict activities
+
+**8.3 Energy Market Specific Risks**
+- **Geopolitical Events**: Wars, sanctions, OPEC decisions can cause 50%+ price swings
+- **Physical Delivery Complications**: Storage shortages, pipeline capacity, quality disputes, force majeure
+- **Counterparty Default**: OTC contracts subject to credit risk
+- **Currency Risk**: NGN has depreciated 60% in past 5 years; AED is pegged but subject to de-pegging risk
+- **Emerging Market Risk**: Political instability, expropriation, capital controls in Nigeria/UAE
+- **Regulatory Changes**: Nigerian PIB 2021 implementation ongoing; UAE laws evolving
+- **Liquidity Risk**: Custom contracts may have wide bid-ask spreads and limited exit options
+
+**8.4 DeFi & Blockchain Risks**
+- **Smart Contract Bugs**: Code vulnerabilities may cause total loss
+- **Network Forks**: Blockchain splits may affect asset value or access
+- **51% Attacks**: Consensus failures on smaller chains
+- **Oracle Failures**: Price feed manipulation or downtime
+- **Bridge Hacks**: Cross-chain bridges frequently exploited ($2B+ stolen in 2022-2023)
+- **Irreversible Transactions**: Sent to wrong address = permanent loss
+- **Key Management**: Lost private keys = lost assets forever
+- **Regulatory Uncertainty**: DeFi regulatory framework unclear; potential retroactive enforcement
+
+**8.5 Technology Risks**
+- **ML Model Errors**: Predictive models may be inaccurate or biased
+- **Data Quality Issues**: Third-party data feeds may contain errors
+- **API Outages**: Bloomberg, EIA, or other data provider downtime
+- **Compute Resource Scarcity**: GPU shortages may delay research jobs
+- **Cybersecurity**: Potential for hacking, data breaches, or ransomware despite security measures
+
+**8.6 No Custody**
+- **Non-Custodial**: We do not custody your crypto assets or energy commodities
+- **Your Responsibility**: You control private keys, storage facilities, and wallet security
+- **No Recovery**: We cannot recover lost keys, reverse blockchain transactions, or retrieve sent assets
+- **No Insurance**: Your assets are not FDIC, SIPC, or NCUA insured
+- **Third-Party Wallets**: We are not responsible for MetaMask, Phantom, or other wallet provider failures
+
+**8.7 Legal Disclaimers**
+- **NO WARRANTIES**: PLATFORM PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT ANY WARRANTY
+- **DISCLAIM ALL WARRANTIES**: EXPRESS, IMPLIED, STATUTORY INCLUDING MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT
+- **NO GUARANTEE**: Of accuracy, completeness, timeliness, or reliability of any data, models, or services
+- **NO GUARANTEE**: Of execution price, timing, or settlement of trades
+- **NO GUARANTEE**: Of physical delivery or contract performance by counterparties
+
+**Some jurisdictions do not allow disclaimer of implied warranties; above may not apply to you.**
+
+---
+
+## 9. DISPUTE RESOLUTION & ARBITRATION
+
+**THIS SECTION GOVERNS HOW DISPUTES BETWEEN YOU AND PROSPECT FUTURES ARE RESOLVED. READ CAREFULLY.**
+
+**9.1 Arbitration Agreement - Scope**
+
+**Covered Disputes**: All claims, disputes, or controversies arising from or relating to:
+- This Agreement or any prior version
+- Your use of the Platform or Services
+- Any transaction or attempted transaction
+- Marketing or advertising communications
+- Your relationship with Prospect Futures
+- Any aspect of energy trading, research services, or DeFi interactions
+
+**Exceptions to Arbitration**:
+- Small claims court (claims under $10,000 in Travis County, Texas)
+- Intellectual property disputes (trademark, patent, copyright infringement claims may be brought in federal court)
+- Temporary restraining orders or preliminary injunctions (to prevent irreparable harm pending arbitration)
+
+**Binding Effect**: You and Prospect Futures agree that arbitration is the exclusive forum for covered disputes, waiving the right to sue in court (except as noted above).
+
+**Who Is Bound**: This Arbitration Agreement binds you, Prospect Futures, and our respective agents, employees, successors, assigns, and affiliated entities.
+
+**9.2 CLASS ACTION WAIVER**
+
+**CRITICAL**: BY AGREEING TO THIS ARBITRATION AGREEMENT, YOU WAIVE THE RIGHT TO PARTICIPATE IN CLASS ACTIONS, MASS ARBITRATIONS, OR REPRESENTATIVE PROCEEDINGS.
+
+**Individual Arbitration Only**: All disputes must be arbitrated on an individual basis. No consolidation of claims.
+
+**No Class Arbitration**: You cannot act as class representative or participate as class member.
+
+**No Mass Filings**: Coordinated filing of multiple arbitrations is prohibited (see Batch Arbitration rules below).
+
+**Existing Litigation**: If class actions are currently filed against Prospect Futures, you opt out of those by accepting this Agreement.
+
+**Severability**: If class action waiver is found unenforceable for a particular claim, that claim must proceed in court while other claims remain in arbitration.
+
+**9.3 Informal Dispute Resolution (Mandatory Pre-Arbitration)**
+
+**Before filing arbitration, you must:**
+
+1. **Send Written Notice**: Email disputes@prospectfutures.com with:
+   - Your name, email, phone
+   - Account number (if applicable)
+   - Detailed description of dispute
+   - Desired resolution
+   - Supporting documentation
+
+2. **Attend Good-Faith Conference**: Within 60 days of notice, you and Prospect Futures representative must meet via videoconference (Zoom, Google Meet, etc.) to attempt resolution.
+   - You must personally attend (counsel may join but your presence required)
+   - We will have decision-maker with settlement authority present
+   - Conference must last minimum 30 minutes
+   - Both parties must negotiate in good faith
+
+3. **Outcome**:
+   - If resolved: Written settlement agreement executed
+   - If not resolved: Either party may file arbitration after conference concludes
+
+**Statute of Limitations Tolling**: Limitations period paused during informal resolution process.
+
+**Requirement**: Completing informal resolution is prerequisite to filing arbitration. Failure to complete = arbitration dismissal without prejudice.
+
+**9.4 Arbitration Procedure**
+
+**Administrator**: American Arbitration Association (AAA) under Commercial Arbitration Rules
+
+**Initiating Arbitration**:
+1. Send notice to: legal@prospectfutures.com certifying completion of informal dispute resolution
+2. File demand with AAA per their rules
+3. Demand must include:
+   - Parties' names and contact information
+   - Statement of legal claims and factual basis
+   - Description of relief sought
+   - Good-faith calculation of amount in controversy (USD)
+   - Your signature
+
+**Arbitrator Selection**: One arbitrator selected per AAA rules (parties may agree on arbitrator or use AAA striking method)
+
+**Arbitrator Qualifications**:
+- For energy trading disputes: Experience with commodities/derivatives preferred
+- For DeFi disputes: Familiarity with blockchain technology preferred
+- For disputes over $100K: At least 10 years legal/arbitration experience required
+
+**Hearing Format**:
+- Your choice: In-person (Austin, TX), videoconference, or telephonic
+- For claims under $25K: Documents-only arbitration available
+- For claims over $100K: In-person hearing presumed unless parties agree otherwise
+
+**Discovery**: Proportional to claim size and complexity, as determined by arbitrator (generally more limited than court litigation)
+
+**Evidence**: Federal Rules of Evidence apply (relaxed for practicality)
+
+**Timeline**: AAA rules target 120 days from arbitrator appointment to final award
+
+**9.5 Arbitration Fees & Costs**
+
+**Filing Fees**:
+- Claims under $10K: You pay $200, Prospect Futures pays remainder
+- Claims $10K-$75K: Fees split equally
+- Claims over $75K: Per AAA Commercial Fee Schedule
+
+**Arbitrator Fees**: Split equally between parties (typically $3,000-$5,000 per day)
+
+**Fee Waiver**: If you cannot afford fees, request waiver from AAA. If AAA denies and we don't pay, we will pay your portion.
+
+**Cost-Shifting**:
+- **Frivolous Claims**: If arbitrator finds claim violates Fed. R. Civ. P. 11 standard, filing party pays other side's attorneys' fees and costs
+- **Offer of Judgment**: If Prospect Futures makes settlement offer that you reject, and you recover less than offer at arbitration, you pay our post-offer costs and fees
+
+**9.6 Arbitration Award**
+
+**Scope of Relief**: Arbitrator may award any relief available under law on individual basis (damages, injunctions, declaratory relief, etc.)
+
+**Written Decision**: Arbitrator must issue reasoned written decision with findings of fact and conclusions of law
+
+**Damages Calculation**: Based on actual harm; punitive damages available only if statutory basis exists and proportional to compensatory damages
+
+**Finality**: Award is final and binding (limited appeal rights per FAA)
+
+**Judgment**: Either party may enter award as judgment in court of competent jurisdiction
+
+**9.7 Appeal Rights (For Awards Over $100K)**
+
+If arbitration award includes:
+- Injunctive relief, or
+- Monetary damages exceeding $100,000
+
+**Either party may appeal to three-arbitrator panel:**
+- Notice of appeal filed within 30 days of award
+- Administered by AAA under Optional Appellate Arbitration Rules
+- Panel reviews for errors of law and clearly erroneous factual findings
+- Appellate award is final (no further appeals)
+
+**9.8 Batch Arbitration (For Mass Filings)**
+
+**Trigger**: If 25+ similar demands filed within 180 days by same law firm or coordinated effort:
+
+**Process**:
+1. **Bellwether Selection**: Parties each select 10 representative cases (20 total) to proceed first
+2. **Stay Remaining Cases**: All other cases stayed pending bellwether outcomes
+3. **Bellwether Arbitrations**: Proceed individually but on expedited schedule
+4. **Global Settlement Negotiation**: After bellwether awards, 90-day good-faith negotiation for global resolution
+5. **Remaining Cases**: If no global settlement, proceed in batches of 50 (randomized selection)
+
+**Fees**: Each bellwether batch treated as single arbitration for AAA filing fees (split among claimants in that batch)
+
+**Venue**: All bellwether arbitrations held in Austin, TX or by videoconference
+
+**Opt-Out of Batch Process**: Individual claimants may opt out within 30 days of batch notice and proceed independently (but must pay full individual filing fees)
+
+**9.9 Opt-Out Right (New Users Only)**
+
+**Eligibility**: Only users who create accounts on or after October 20, 2025
+
+**Deadline**: Must opt out within 30 days of account creation
+
+**Method**: Email arbitration-optout@prospectfutures.com with:
+- Your full name
+- Email address
+- Account username
+- Statement: "I opt out of the Arbitration Agreement"
+
+**Effect**: If you opt out:
+- Disputes resolved in Travis County, Texas courts
+- Class action waiver still applies (to maximum extent permitted by law)
+- All other terms of this Agreement remain in effect
+
+**No Retroactive Opt-Out**: Users who previously agreed to arbitration in prior versions of this Agreement cannot newly opt out (but prior opt-outs remain valid)
+
+**9.10 Governing Law & Jurisdiction (If Arbitration Does Not Apply)**
+
+**Governing Law**: Texas law (excluding conflicts of law principles)
+
+**Federal Law Overlay**: Federal Arbitration Act, Commodity Exchange Act, Dodd-Frank, Bank Secrecy Act supersede where applicable
+
+**Exclusive Jurisdiction**: State and federal courts in Travis County, Texas (Austin Division)
+
+**Personal Jurisdiction**: You consent to personal jurisdiction in Texas
+
+**Venue**: You waive objections to venue in Travis County
+
+**9.11 Severability**
+
+If any portion of this Section 9 is found invalid or unenforceable:
+- Remaining provisions remain in full force
+- Invalid provision severed (not reformed)
+- If class action waiver severed: class claims proceed in court, individual claims remain in arbitration
+- If entire arbitration agreement invalid: disputes proceed in Travis County courts
+
+**9.12 Survival**
+
+This Arbitration Agreement survives:
+- Termination of your account
+- Termination of this Terms of Service
+- Bankruptcy or insolvency of either party
+
+**9.13 Future Amendments**
+
+**No Retroactive Application**: If we amend this Arbitration Agreement, amendments do not apply to disputes that arose before the amendment effective date.
+
+**Notice**: Material amendments require 30 days email notice
+
+**Continued Use**: Continuing to use Platform after amendment effective date = acceptance of amended arbitration terms
+
+---
+
+## 10. INDEMNIFICATION & LIABILITY LIMITATIONS
+
+**10.1 Your Indemnification of Us**
+
+You agree to indemnify, defend, and hold harmless Prospect Futures, our officers, directors, employees, contractors, agents, affiliates, subsidiaries, successors, and assigns from and against any and all:
+- Claims, demands, actions, suits, proceedings
+- Damages, losses, liabilities, settlements, costs, expenses (including reasonable attorneys' fees)
+
+**Arising from or related to:**
+- Your use or misuse of the Platform or Services
+- Your violation of this Agreement or any law/regulation
+- Your violation of third-party rights (IP, privacy, contractual, etc.)
+- Your trading activity or energy market transactions
+- Your false, incomplete, or misleading information provided to us
+- Your negligence or willful misconduct
+- Your breach of representations and warranties
+
+**Process**:
+- We will notify you of any claim subject to indemnification
+- You may assume defense with counsel of your choice (subject to our approval)
+- We may participate in defense at our expense
+- You may not settle without our written consent if settlement includes admission of liability or non-monetary obligations on us
+
+**Exceptions**: You are not required to indemnify us for losses arising solely from our gross negligence or willful misconduct (as determined by final arbitration award or court judgment).
+
+**10.2 Limitation of Liability - MAXIMUM LIABILITY CAP**
+
+**MAXIMUM LIABILITY**: In no event shall Prospect Futures' total aggregate liability to you for all claims arising from or related to your use of the Platform or Services exceed the **LESSER OF**:
+
+**(A) $100,000 USD, or**
+**(B) The total fees you paid to Prospect Futures in the 12 months preceding the claim**
+
+This cap applies regardless of legal theory (contract, tort, negligence, strict liability, statutory, or otherwise).
+
+**10.3 Exclusion of Consequential Damages**
+
+**TO THE MAXIMUM EXTENT PERMITTED BY LAW, PROSPECT FUTURES IS NOT LIABLE FOR:**
+
+- Lost profits or revenue
+- Loss of business opportunity
+- Loss of goodwill or reputation
+- Loss of data (except as required by data breach laws)
+- Cost of substitute services
+- Consequential, incidental, indirect, special, or punitive damages
+- Exemplary damages
+
+**EVEN IF:**
+- We were advised of possibility of such damages
+- Such damages were reasonably foreseeable
+- Other remedies fail of their essential purpose
+
+**Applies to claims arising from:**
+- Platform downtime or unavailability
+- Trading losses or missed opportunities
+- Data breaches or security incidents (except as required by law
